@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.float-r img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 950px;
+    width: 1000px;
+}
+.float-l {
+    background-color: #0170C1;
+    height: 930px;
+    -webkit-clip-path: polygon(0 0, 100% 0, 75% 100%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0, 75% 100%, 0% 100%);
+    width: 60%;
+    z-index: 99;
+    position: relative;
+}
+.main-section {
+    position: relative;
+}
+p{
+	margin-left:9%;
+	color: white;
+}
+.rounded-circle{
+	margin-right:200px;
+	margin-top: 150px;
+	padding-right: -13px;
+	height: 40%;
+	width: 20%;
+	}
+
+
+
+
+
+
+
+
+
+
+    

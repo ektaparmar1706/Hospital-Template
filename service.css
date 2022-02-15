@@ -1,0 +1,16 @@
+h1{
+    font-weight: 700; 
+    font-size:60px; 
+    text-align: center;
+    padding: 50px;
+    
+}
+.circle{
+    margin-top: -30px;
+    margin-left: 80px;
+    background: blue;
+    height: 80px;
+    width: 80px;
+    border-radius: 48%;
+
+}
